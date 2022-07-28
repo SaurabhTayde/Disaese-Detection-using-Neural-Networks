@@ -5,6 +5,8 @@ The objective of this project is to predict whether a patient has diabetes or no
 Following steps are covered:
 
 Perform Data Visualization and Exploratory Data Analysis
+
 Build, Train and Test XG-Boost and Artificial Neural Networks Model to solve classification type problems
+
 Evaluate trained model performance
 
